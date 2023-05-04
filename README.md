@@ -6,7 +6,7 @@ Owner: Suhaib Khan**
 **Code Running Explanation**  
 
 Please run the .py file directly "Conditional GAN Code - Final.py" to see the model results.  
-Use the command YOUR-PATH\python "Conditional GAN Code - Final.py"  
+Use the command >> python "Conditional GAN Code - Final.py"  
 
 The program will run on pretrained checkpoint #4 by default.  
 To check results of other checkpoints, change 'cp_index' from [0,9] at line 373.  
